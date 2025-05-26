@@ -1,4 +1,3 @@
-````markdown
 # Auth через FastAPI с JWT согласно OAuth2
 
 ## Запуск
